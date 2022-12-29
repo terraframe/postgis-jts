@@ -1,3 +1,15 @@
+*** Deprecated DO NOT USE ***
+
+This repo was created from a decompilation of the com.vividsolutions:postgis-jts:1.5.3 jar, which was produced using [Java Decompiler (JD)](http://java-decompiler.github.io/).
+
+This repo is considered legacy and is marked for deletion. Newer versions of Runway are directed here:
+https://github.com/postgis/postgis-java
+
+To find more up-to-date source.
+
+
+
+
 
 *** PostGIS JDBC Driver extension README / FAQ ***
 
